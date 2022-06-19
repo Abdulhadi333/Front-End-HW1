@@ -1,0 +1,62 @@
+/*Some necessary adjustments*/
+h1, body, html, main {
+    margin: 0;
+  }
+  /*Import the font and set the default size*/
+  html {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px
+  }
+
+.center{
+    display:block;
+    margin:auto;
+    padding:2px;
+
+  }
+  img{
+    height: 750px;
+    width: 1500px;
+  }
+  p{
+    margin: 100px;
+    text-align:center;
+    font-size: 150%;
+}
+
+.img2{
+    height: 250px;
+    width: 550px;
+    display:block;
+    margin:auto;
+    padding:2px;
+  }
+
+  h2{
+    margin: 120px; 
+
+}
+.cetext {
+
+    font-size: 60px;
+    color: white;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+  }
+ul{
+    font-size: 35px;
+
+    margin: 70px;
+}
+
+
+ol{
+    margin: 90px;
+    font-size: 30px;
+}
+
+
+  
